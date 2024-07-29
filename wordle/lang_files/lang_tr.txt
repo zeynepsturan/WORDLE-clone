@@ -1,0 +1,14 @@
+Kurallar: Her renk farklı bir anlam içerir:
+Yeşil
+->Harf doğru.
+Sarı
+->Harf doğru fakat yeri yanlış.
+Gri
+->Harf yanlış.
+Tahmininizi girin:
+Geçersiz tahmin. Sadece 5 harfli kelimeler girebilirsiniz.
+Tebrikler!
+Kaybettiniz. Doğru kelime:
+Tekrar oynamak ister misiniz? (y/n):
+Geçersiz seçim.
+Hay aksi.. Kelime veritabanı kayıp.
