@@ -1,0 +1,14 @@
+Rules: Each color for your guess represents different things:
+Green
+->The letter is correct.
+Yellow
+->The letter exists in the word but in a different position.
+Gray
+->The letter does not exist in the word.
+Enter your guess:
+Invalid guess. You have to enter a 5 letter word.
+You won!
+You lost. The word was
+Do you want to play again? (y/n):
+Invalid choice.
+Oops... It looks like the word database is missing.
